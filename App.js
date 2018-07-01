@@ -84,17 +84,7 @@ var _UI2 = _interopRequireDefault(_UI);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var currency = new _Currency2.default(); /**
-                                          * Currency Converter App
-                                          * ALC 3.0 7days Challenge
-                                          * Google Africa Challenge Scholarship
-                                          * Udacity
-                                          *
-                                          * @version 1.0.0
-                                          * @author  Nwakwuo Uche Kingsley
-                                          * @license ALC 
-                                          *
-                                          **/
+var currency = new _Currency2.default(); 
 
 var ui = new _UI2.default();
 
