@@ -1,4 +1,4 @@
-const staticCacheName = 'dx-static-v2';
+const staticCacheName = 'static-v2';
 let allCaches = [
   staticCacheName,
 ];
